@@ -1,9 +1,16 @@
-# General
-title: "Kazaja feriya"
-description: "Abenduak 16 Diciembre Mosku"
+---
+title: Kazaja feriya
+timezone: Europe/Paris
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Abenduak 16 Diciembre Mosku
 author:
-  name: "Iune Trecet Obeso"
-  email: "contact@iune.info"
-  github: "iunetrecet"
-  web: "http://iune.info"
-timezone: "Europe/Paris"
+  name: Iune Trecet Obeso
+  email: contact@iune.info
+  github: iunetrecet
+  web: http://iune.info
